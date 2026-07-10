@@ -1,0 +1,1 @@
+Crear DATASET_SCHEMA_RECONCILIATION.md y herramientas de validación para comparar alma_dataset_v1.jsonl (2 campos) con mii-datasert-train (6 campos). Definir versión, campos obligatorios/opcionales, migración reversible, validación JSONL y política para citas 2025-2026. No entrenar ni sobrescribir datasets hasta verificar la fuente primaria de HuggingFace.
